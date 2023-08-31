@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prefers-color-scheme/static/css/main.1e0508d4.css",
+    "main.js": "/react-prefers-color-scheme/static/js/main.dc480963.js",
+    "index.html": "/react-prefers-color-scheme/index.html",
+    "main.1e0508d4.css.map": "/react-prefers-color-scheme/static/css/main.1e0508d4.css.map",
+    "main.dc480963.js.map": "/react-prefers-color-scheme/static/js/main.dc480963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0508d4.css",
+    "static/js/main.dc480963.js"
+  ]
+}
