@@ -2,6 +2,8 @@
 
 ### `Demo:` https://dmitriyshkredov.github.io/react-prefers-color-scheme/
 
+### `Video:` https://youtube.com/shorts/xhFrWOIyKqQ
+
 ### `git clone https://github.com/DmitriyShkredov/react-prefers-color-scheme.git`
 
 ### `npm install`
